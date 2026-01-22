@@ -6,8 +6,7 @@
 
 ## 📂 專案檔案 (Project Files)
 
-- **📄 [點擊查看完整分析報告 (PDF)](./AI_agent - Colab.pdf)** *(推薦！包含完整圖表與輸出結果，不需跑程式即可閱讀)*
-
+- **📄 [點擊查看完整分析報告 (PDF)](AI_agent - Colab.pdf)**
 ---
 
 ## 🚀 專案核心架構 (Core Architecture)
