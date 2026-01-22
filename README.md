@@ -4,9 +4,6 @@
 這是一個結合 **資料分析 (Data Analytics)** 與 **生成式 AI (GenAI)** 的智慧行銷專案。
 本程式能夠讀取消費者的行為數據（CSV），自動判讀其心理狀態，並針對不同客群撰寫出具有高度說服力的廣告文案。
 
-## 📂 專案檔案 (Project Files)
-
-- **📄 [點擊查看完整分析報告 (PDF)](AI_agent - Colab.pdf)**
 ---
 
 ## 🚀 專案核心架構 (Core Architecture)
